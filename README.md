@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjai Prabhakaran</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **LLM Projects**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects**
-
-- 🤝 I’m looking for help with **Flutter App Development**
-
-- 💬 Ask me about **Flutter,Python**
+- 💬 Ask me about **Flutter,Python and Java**
 
 - 📫 How to reach me **sanjaiprabhakaran.official@gmail.com**
 
